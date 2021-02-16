@@ -12,6 +12,7 @@
 </Contact>
             <PriorID>spase://VSPO/DisplayData/P_OAC_HDR_HALPHA</PriorID>
             <PriorID>spase://VSPO/DisplayData/OAC/OACT/H-ALPHA</PriorID>
+            <PriorID>spase://NASA/DisplayData/OAC/OACT/H-ALPHA</PriorID>
 </ResourceHeader>
         <AccessInformation>
             <RepositoryID>spase://SMWG/Repository/OAC</RepositoryID>
